@@ -1,3 +1,3 @@
 # ABOUT
 
-list of provinces -> district for blood donation app
+list of `province -> districts` for blood donation app
