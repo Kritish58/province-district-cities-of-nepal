@@ -1,6 +1,7 @@
 const parent = require('./province_and_district');
 const child = require('./district_and_city');
 var fs = require('fs');
+const _ = require('underscore');
 
 const res = parent.map((parent_item) => {
    child.forEach((child_item) => {
@@ -14,7 +15,9 @@ const res = parent.map((parent_item) => {
    return parent_item;
 });
 
-fs.writeFile('result.json', JSON.stringify(res), function (err) {
+const grouped = _.groupBy(res, 'province');
+
+fs.writeFile('result.json', JSON.stringify(grouped), function (err) {
    if (err) {
       console.log('ERROR', err);
       return;
