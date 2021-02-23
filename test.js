@@ -5,7 +5,10 @@ var fs = require('fs');
 const res = parent.map((parent_item) => {
    child.forEach((child_item) => {
       if (child_item.district.includes(parent_item.district)) {
-         parent_item.cities = [...parent_item.cities, child_item.city];
+         parent_item.cities = [
+            ...parent_item.cities,
+            child_item.city.replace("'", '').replace("'", '').replace(' ', ''),
+         ];
       }
    });
    return parent_item;
