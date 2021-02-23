@@ -1,0 +1,23 @@
+{
+  "name": "json",
+  "version": "1.0.0",
+  "description": "list of `province -> districts -> cities` for blood donation app",
+  "main": "district_and_city.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kritish58/province_district_json.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kritish58/province_district_json/issues"
+  },
+  "homepage": "https://github.com/Kritish58/province_district_json#readme",
+  "dependencies": {
+    "underscore": "^1.12.0"
+  }
+}
