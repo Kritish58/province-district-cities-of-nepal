@@ -18,14 +18,35 @@ let res = parent.map((parent_item) => {
 res = res.map((item) => {
    return {
       ...item,
-      cities: item.cities.filter((city, index) => {
-         if (index !== 0) {
-            return city;
-         }
-      }),
+      cities: item.cities
+         .filter((city, index) => {
+            if (index !== 0) {
+               return city;
+            }
+         })
+         .sort(function (a, b) {
+            var nameA = a.toLowerCase(),
+               nameB = b.toLowerCase();
+            if (nameA < nameB)
+               //sort string ascending
+               return -1;
+            if (nameA > nameB) return 1;
+            return 0; //default return value (no sorting)
+         }),
    };
 });
 
+res.sort(function (a, b) {
+   var nameA = a.district.toLowerCase(),
+      nameB = b.district.toLowerCase();
+   if (nameA < nameB)
+      //sort string ascending
+      return -1;
+   if (nameA > nameB) return 1;
+   return 0; //default return value (no sorting)
+});
+
+console.log(res);
 const grouped = _.groupBy(res, 'province');
 
 fs.writeFile('result.json', JSON.stringify(grouped), function (err) {
