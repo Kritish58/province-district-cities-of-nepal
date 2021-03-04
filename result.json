@@ -4,7 +4,6 @@
          "province": "Province No. 1",
          "district": "Bhojpur",
          "cities": [
-            "Bhojpur",
             "Kulung Agrakhe",
             "Dingla",
             "Deurali",
@@ -45,7 +44,6 @@
          "province": "Province No. 1",
          "district": "Ilam",
          "cities": [
-            "Ilam",
             "Nayabazar",
             "Pashupatinagar",
             "Aaitabare",
@@ -63,7 +61,6 @@
          "province": "Province No. 1",
          "district": "Jhapa",
          "cities": [
-            "Jhapa",
             "Baniyani",
             "Goldhap",
             "Chandragadhi",
@@ -87,7 +84,6 @@
          "province": "Province No. 1",
          "district": "Khotang",
          "cities": [
-            "Khotang",
             "Wakshila",
             "Aiselukharka",
             "Jalpa",
@@ -105,7 +101,6 @@
          "province": "Province No. 1",
          "district": "Morang",
          "cities": [
-            "Morang",
             "Chunimari",
             "Rangeli",
             "Sanischare",
@@ -129,7 +124,6 @@
          "province": "Province No. 1",
          "district": "Okhaldhunga",
          "cities": [
-            "Okhaldhunga",
             "Khani Bhanjyang",
             "Rumjatar",
             "Rampur",
@@ -147,7 +141,6 @@
          "province": "Province No. 1",
          "district": "Panchthar",
          "cities": [
-            "Panchthar",
             "Chyangthapu",
             "Ambarpur",
             "Namluwa",
@@ -165,7 +158,6 @@
          "province": "Province No. 1",
          "district": "Sankhuwasabha",
          "cities": [
-            "Sankhuwasabha",
             "Hatiya",
             "Hedangana",
             "Tamku",
@@ -184,23 +176,12 @@
       {
          "province": "Province No. 1",
          "district": "Solukhumbu",
-         "cities": [
-            "Solukhumbu",
-            "Namche Bazar",
-            "Sotang",
-            "Jubu",
-            "Nele",
-            "Necha",
-            "Shishakhola",
-            "Himaganga",
-            "Lukla"
-         ]
+         "cities": ["Namche Bazar", "Sotang", "Jubu", "Nele", "Necha", "Shishakhola", "Himaganga", "Lukla"]
       },
       {
          "province": "Province No. 1",
          "district": "Sunsari",
          "cities": [
-            "Sunsari",
             "Mangalbare",
             "Chatara",
             "Bakalauri",
@@ -223,7 +204,6 @@
          "province": "Province No. 1",
          "district": "Taplejung",
          "cities": [
-            "Khewang",
             "Sadeba",
             "Thokimba",
             "Dobhan",
@@ -242,7 +222,6 @@
          "province": "Province No. 1",
          "district": "Terhathum",
          "cities": [
-            "Terhathum",
             "Jirikhimti",
             "Tinjure",
             "Basantapur",
@@ -258,7 +237,6 @@
          "province": "Province No. 1",
          "district": "Udayapur",
          "cities": [
-            "Udayapur",
             "Ratapani (Thoksila)",
             "Beltar",
             "Hadiya",
@@ -278,7 +256,6 @@
          "province": "Province No. 2",
          "district": "Saptari",
          "cities": [
-            "Saptari",
             "Hanuman Nagar",
             "Bairaba",
             "Phattepur",
@@ -302,7 +279,6 @@
          "province": "Province No. 2",
          "district": "Parsa",
          "cities": [
-            "Parsa",
             "Aadarshanagar",
             "Parbanipur",
             "Bindabasini",
@@ -323,7 +299,6 @@
          "province": "Province No. 2",
          "district": "Sarlahi",
          "cities": [
-            "Sarlahi",
             "Lalbandi",
             "Bayalbas",
             "Haripurwa",
@@ -344,7 +319,6 @@
          "province": "Province No. 2",
          "district": "Bara",
          "cities": [
-            "Bara",
             "Nijgadh",
             "Mahendra Adarsha",
             "Simraungadh",
@@ -364,7 +338,6 @@
          "province": "Province No. 2",
          "district": "Siraha",
          "cities": [
-            "Siraha",
             "Bastipur",
             "Lahan",
             "Bhagawanpur",
@@ -385,7 +358,6 @@
          "province": "Province No. 2",
          "district": "Dhanusha",
          "cities": [
-            "Dhanusha",
             "Khajuri",
             "Tinkoriya",
             "Yadukuha",
@@ -405,7 +377,6 @@
          "province": "Province No. 2",
          "district": "Rautahat",
          "cities": [
-            "Rautahat",
             "Saruatha",
             "Pipra bazar",
             "Madhopur",
@@ -423,7 +394,6 @@
          "province": "Province No. 2",
          "district": "Mahottari",
          "cities": [
-            "Mahottari",
             "Bardibash",
             "Bhangaha",
             "Loharpatti",
@@ -444,7 +414,6 @@
          "province": "Province No. 3",
          "district": "Sindhuli",
          "cities": [
-            "Sindhuli",
             "Solpa",
             "Bahun Tilpung",
             "Dudhauli",
@@ -463,7 +432,6 @@
          "province": "Province No. 3",
          "district": "Ramechhap",
          "cities": [
-            "Ramechhap",
             "Those",
             "Duragaun",
             "Betali",
@@ -480,7 +448,6 @@
          "province": "Province No. 3",
          "district": "Dolakha",
          "cities": [
-            "Dolakha",
             "Khahare",
             "Namdu",
             "Jiri",
@@ -496,23 +463,12 @@
       {
          "province": "Province No. 3",
          "district": "Bhaktapur",
-         "cities": [
-            "Bhaktapur",
-            "Dubakot",
-            "Kharipati",
-            "Tathali",
-            "Jorpati",
-            "Gamcha",
-            "Dibyashwori",
-            "Thimi",
-            "Nagarkot"
-         ]
+         "cities": ["Dubakot", "Kharipati", "Tathali", "Jorpati", "Gamcha", "Dibyashwori", "Thimi", "Nagarkot"]
       },
       {
          "province": "Province No. 3",
          "district": "Dhading",
          "cities": [
-            "Dhading",
             "Lapa",
             "Sertung",
             "Phulkharka",
@@ -531,7 +487,6 @@
          "province": "Province No. 3",
          "district": "Kathmandu",
          "cities": [
-            "Kathmandu",
             "Sankhu",
             "Chabahil",
             "Sundarijal",
@@ -557,23 +512,12 @@
       {
          "province": "Province No. 3",
          "district": "Kavrepalanchok",
-         "cities": [
-            "Kavrepalanchok",
-            "Ghartichhap",
-            "Mangaltar",
-            "Dapcha",
-            "Panauti",
-            "Banepa",
-            "Panchkhal",
-            "Phalante",
-            "Dolal Ghat"
-         ]
+         "cities": ["Ghartichhap", "Mangaltar", "Dapcha", "Panauti", "Banepa", "Panchkhal", "Phalante", "Dolal Ghat"]
       },
       {
          "province": "Province No. 3",
          "district": "Lalitpur",
          "cities": [
-            "Lalitpur",
             "Dhapakhel",
             "Imadol",
             "Darabartole",
@@ -589,7 +533,6 @@
          "province": "Province No. 3",
          "district": "Nuwakot",
          "cities": [
-            "Nuwakot",
             "Thansingh",
             "Ranipauwa",
             "Taruka",
@@ -608,13 +551,12 @@
       {
          "province": "Province No. 3",
          "district": "Rasuwa",
-         "cities": ["Rasuwa", "Dhaibung", "Ramkali", "Rasuwa", "Syaphru Besi"]
+         "cities": ["Dhaibung", "Ramkali", "Rasuwa", "Syaphru Besi"]
       },
       {
          "province": "Province No. 3",
          "district": "Sindhupalchok",
          "cities": [
-            "Sindhupalchok",
             "Kodari",
             "Barabise",
             "Atarpur",
@@ -633,7 +575,7 @@
       {
          "province": "Province No. 3",
          "district": "Chitwan",
-         "cities": ["Bhandara", "Khairahani", "Jutpani", "Phulbari", "Meghauli", "Patihani"]
+         "cities": ["Khairahani", "Jutpani", "Phulbari", "Meghauli", "Patihani"]
       },
       { "province": "Province No. 3", "district": "Makwanpur", "cities": [] }
    ],
@@ -642,7 +584,6 @@
          "province": "Gandaki",
          "district": "Baglung",
          "cities": [
-            "Baglung",
             "Pala",
             "Bihukot",
             "Harichaur",
@@ -662,7 +603,6 @@
          "province": "Gandaki",
          "district": "Gorkha",
          "cities": [
-            "Gorkha",
             "Bungkot",
             "Manakamana",
             "Batase",
@@ -681,7 +621,6 @@
          "province": "Gandaki",
          "district": "Kaski",
          "cities": [
-            "Kaski",
             "Rupakot",
             "Gagan Gaunda",
             "Makaikhola",
@@ -701,7 +640,6 @@
          "province": "Gandaki",
          "district": "Lamjung",
          "cities": [
-            "Lamjung",
             "Maling",
             "Sundar Bazar",
             "Sotipasal",
@@ -717,28 +655,17 @@
       {
          "province": "Gandaki",
          "district": "Manang",
-         "cities": ["Manang", "Pisang", "Bhakra", "Mathillo Manang", "Nar", "Dharapani"]
+         "cities": ["Pisang", "Bhakra", "Mathillo Manang", "Nar", "Dharapani"]
       },
       {
          "province": "Gandaki",
          "district": "Mustang",
-         "cities": [
-            "Mustang",
-            "Marpha",
-            "Kagbeni",
-            "Charang",
-            "Mustang",
-            "Chhoser",
-            "Muktinath",
-            "Lete",
-            "Thak Tukuche"
-         ]
+         "cities": ["Marpha", "Kagbeni", "Charang", "Mustang", "Chhoser", "Muktinath", "Lete", "Thak Tukuche"]
       },
       {
          "province": "Gandaki",
          "district": "Myagdi",
          "cities": [
-            "Myagdi",
             "Xyamarukot",
             "Galeswor",
             "Rakhu Bhagawati",
@@ -756,7 +683,6 @@
          "province": "Gandaki",
          "district": "Parbat",
          "cities": [
-            "Parbat",
             "Salija",
             "Khurkot",
             "Deurali",
@@ -775,7 +701,6 @@
          "province": "Gandaki",
          "district": "Tanahun",
          "cities": [
-            "Tanahun",
             "Tuhure Pasal",
             "Manechauka",
             "Bandipur",
@@ -800,7 +725,6 @@
          "province": "Province No. 5",
          "district": "Rupandehi",
          "cities": [
-            "Rupandehi",
             "Siktahan",
             "Dhakadhai",
             "Manigram",
@@ -822,7 +746,6 @@
          "province": "Province No. 5",
          "district": "Arghakhanchi",
          "cities": [
-            "Arghakhanchi",
             "Balkot",
             "Arghatosh",
             "Khana",
@@ -841,7 +764,6 @@
          "province": "Province No. 5",
          "district": "Gulmi",
          "cities": [
-            "Gulmi",
             "Purtighat",
             "Bharse",
             "Chandrakot",
@@ -862,7 +784,6 @@
          "province": "Province No. 5",
          "district": "Palpa",
          "cities": [
-            "Palpa",
             "Sahalkot",
             "Rampur",
             "Hungi",
@@ -882,7 +803,6 @@
          "province": "Province No. 5",
          "district": "Dang",
          "cities": [
-            "Dang",
             "Hapur",
             "Jumlepani",
             "Bhaluwang",
@@ -903,7 +823,6 @@
          "province": "Province No. 5",
          "district": "Pyuthan",
          "cities": [
-            "Pyuthan",
             "Dakhaquadi",
             "Bhingri",
             "Wangesal",
@@ -920,7 +839,6 @@
          "province": "Province No. 5",
          "district": "Rolpa",
          "cities": [
-            "Rolpa",
             "Khungri",
             "Sirpa",
             "Thawang",
@@ -937,7 +855,6 @@
          "province": "Province No. 5",
          "district": "Banke",
          "cities": [
-            "Banke",
             "Suiya",
             "Bhojbhagawanpur",
             "Khaskusma",
@@ -955,7 +872,6 @@
          "province": "Province No. 5",
          "district": "Bardiya",
          "cities": [
-            "Bardiya",
             "Jamuni",
             "Mainapokhar",
             "Motipur",
@@ -974,7 +890,6 @@
          "province": "Karnali",
          "district": "Salyan",
          "cities": [
-            "Salyan",
             "Kalimati Kalche",
             "Luham",
             "Dhanbang",
@@ -989,33 +904,28 @@
       {
          "province": "Karnali",
          "district": "Dolpa",
-         "cities": ["Dolpa", "Juphal", "Tripurakot", "Liku", "Sarmi", "Kaigaun", "Foksundo", "Namdo"]
+         "cities": ["Juphal", "Tripurakot", "Liku", "Sarmi", "Kaigaun", "Foksundo", "Namdo"]
       },
-      {
-         "province": "Karnali",
-         "district": "Humla",
-         "cities": ["Humla", "Muchu", "Lali", "Sarkegadh", "Darma", "Srinagar"]
-      },
+      { "province": "Karnali", "district": "Humla", "cities": ["Muchu", "Lali", "Sarkegadh", "Darma", "Srinagar"] },
       {
          "province": "Karnali",
          "district": "Jumla",
-         "cities": ["Jumla", "Dillichaur", "Tatopani", "Malikathata", "Kalikakhetu", "Narakot", "Hatsinja", "Chautha"]
+         "cities": ["Dillichaur", "Tatopani", "Malikathata", "Kalikakhetu", "Narakot", "Hatsinja", "Chautha"]
       },
       {
          "province": "Karnali",
          "district": "Kalikot",
-         "cities": ["Kalikot", "Sanniraskot", "Mehalmudi", "Kotbada", "Kalikot", "Padamghat", "Jubitha", "Thirpu"]
+         "cities": ["Sanniraskot", "Mehalmudi", "Kotbada", "Kalikot", "Padamghat", "Jubitha", "Thirpu"]
       },
       {
          "province": "Karnali",
          "district": "Mugu",
-         "cities": ["Mugu", "Rowa", "Pulu", "Sorubarma", "Rara", "Sukhadhik", "Gumtha", "Dhainkot"]
+         "cities": ["Rowa", "Pulu", "Sorubarma", "Rara", "Sukhadhik", "Gumtha", "Dhainkot"]
       },
       {
          "province": "Karnali",
          "district": "Surkhet",
          "cities": [
-            "Surkhet",
             "Chhinchu",
             "Ramghat",
             "Sahare",
@@ -1032,7 +942,6 @@
          "province": "Karnali",
          "district": "Dailekh",
          "cities": [
-            "Dailekh",
             "Gaidabaj",
             "Naumule",
             "Byastada",
@@ -1047,7 +956,6 @@
          "province": "Karnali",
          "district": "Jajarkot",
          "cities": [
-            "Jajarkot",
             "Dhime",
             "Dalli",
             "Ragda",
@@ -1064,7 +972,6 @@
          "province": "SudurPaschim",
          "district": "Kailali",
          "cities": [
-            "Kailali",
             "Tikapur",
             "Dododhara",
             "Lamki",
@@ -1083,7 +990,6 @@
          "province": "SudurPaschim",
          "district": "Achham",
          "cities": [
-            "Achham",
             "Chaurpati",
             "Srikot",
             "Thanti",
@@ -1102,7 +1008,6 @@
          "province": "SudurPaschim",
          "district": "Doti",
          "cities": [
-            "Doti",
             "Silgadhi",
             "Sanagaun",
             "Daund",
@@ -1120,7 +1025,6 @@
          "province": "SudurPaschim",
          "district": "Bajhang",
          "cities": [
-            "Bajhang",
             "Talkot",
             "Jamatola",
             "Jaya Prithivi Nagar",
@@ -1135,13 +1039,12 @@
       {
          "province": "SudurPaschim",
          "district": "Bajura",
-         "cities": ["Bajura", "Dandakot", "Jukot", "Faiti", "Kolti", "Manakot", "Dogadi", "Tate", "Chhatara"]
+         "cities": ["Dandakot", "Jukot", "Faiti", "Kolti", "Manakot", "Dogadi", "Tate", "Chhatara"]
       },
       {
          "province": "SudurPaschim",
          "district": "Kanchanpur",
          "cities": [
-            "Kanchanpur",
             "Krishnapur",
             "Kalika",
             "Punarbas",
@@ -1157,23 +1060,12 @@
       {
          "province": "SudurPaschim",
          "district": "Dadeldhura",
-         "cities": [
-            "Dadeldhura",
-            "Ugratara",
-            "Dandaban",
-            "Ganeshpur",
-            "Gaira Ganesh",
-            "Jogbudha",
-            "Lamikande",
-            "Chipur",
-            "Ajayameru"
-         ]
+         "cities": ["Ugratara", "Dandaban", "Ganeshpur", "Gaira Ganesh", "Jogbudha", "Lamikande", "Chipur", "Ajayameru"]
       },
       {
          "province": "SudurPaschim",
          "district": "Baitadi",
          "cities": [
-            "Baitadi",
             "Kesharpur",
             "Patan",
             "Khodpe",
@@ -1193,7 +1085,6 @@
          "province": "SudurPaschim",
          "district": "Darchula",
          "cities": [
-            "Darchula",
             "Rapla",
             "Duhuti",
             "Malikarjun",

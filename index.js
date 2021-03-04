@@ -3,7 +3,7 @@ const child = require('./district_and_city');
 var fs = require('fs');
 const _ = require('underscore');
 
-const res = parent.map((parent_item) => {
+let res = parent.map((parent_item) => {
    child.forEach((child_item) => {
       if (child_item.district.includes(parent_item.district)) {
          parent_item.cities = [
@@ -13,6 +13,17 @@ const res = parent.map((parent_item) => {
       }
    });
    return parent_item;
+});
+
+res = res.map((item) => {
+   return {
+      ...item,
+      cities: item.cities.filter((city, index) => {
+         if (index !== 0) {
+            return city;
+         }
+      }),
+   };
 });
 
 const grouped = _.groupBy(res, 'province');
